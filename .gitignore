@@ -1,0 +1,4 @@
+config.cfg
+users.txt
+terms.txt
+*.pyc
